@@ -1,0 +1,5 @@
+Name: Abduraimov Shuhrat
+Age: 31
+Pets: No
+Salary: 1000
+
