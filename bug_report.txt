@@ -1,1 +1,16 @@
+ title: Не возможно сменить раскладку клавиатуры на экране ввода логина и пароля;
+ project: Kate mobile;
+ version: 86 lite;
+ severity: S1 (Blocker);
+ priority: High;
+ environtment: device - Asus K019;
+               operating system - Android 5.0.1;
+ status: открыт;
+ author: Абдурайимов Шухрат;
+ steps to reproduce:
+                          step1: запустить приложение Kate mobile,
+                          step2: изменить раскладку клавиатуры (язык) на экране ввода логина и пароля;
+                    
+ expected result: раскладка клавиатуры (язык) меняется;
+ actual result: раскладка клавиатуры (язык) не меняется.
 
